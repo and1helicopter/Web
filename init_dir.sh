@@ -7,4 +7,4 @@ mkdir css
 mkdir js
 cd ..
 cp -i /home/box/web/nginx.conf /home/box/web/etc/
-bash init.h
+bash init.sh
